@@ -1,2 +1,11 @@
 # clustering-example
-First steps in clustering with k-Means and hierarchical clustering.
+First steps in unsupervised learning with some clustering algorithms.
+
+
+* Hierarchical clustering
+    * Agglomerative hierarchical clustering
+    * Divisive hierarchical clustering
+* Centroid-based clustering
+    * k-Means clustering
+
+* Principal component analysis (PCA)
